@@ -1,0 +1,23 @@
+.blocCours{
+  border: solid 1px rgb(72, 128, 202);
+  border-radius: 10px;
+  color : white;
+  background-color: rgb(72, 128, 202);
+}
+
+.blocNoCours{
+  color : white;
+}
+
+.heure{
+  text-align: right;
+}
+
+.trait1{
+    border-right: solid 2px gray;
+}
+
+.trait2{
+  border-right: solid 2px gray;
+  border-left: solid 2px gray;
+}
